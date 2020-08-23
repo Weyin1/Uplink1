@@ -5,7 +5,7 @@
   },
   "loadingGame": {
     "state": "Загрузка...",
-    "largeImageText": "Minecraft",
+    "largeImageText": "Загрузка...",
     "details": "%d модов"
   },
   "inGame": {
