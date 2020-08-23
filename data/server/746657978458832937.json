@@ -73,5 +73,10 @@
     "uid": "116.202.235.224:25580",
     "key": "server-hitech",
     "name": "HiTech 3"
+  },
+  {
+    "uid": "localhost",
+    "key": "server-localhost",
+    "name": "Локальный сервер"
   }
 ]
