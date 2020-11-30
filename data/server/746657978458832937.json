@@ -75,6 +75,11 @@
     "name": "HiTech 3"
   },
   {
+    "uid": "116.202.232.190:25560",
+    "key": "server-nevermine",
+    "name": "Nevermine"
+  },
+  {
     "uid": "localhost",
     "key": "server-localhost",
     "name": "Локальный сервер"
