@@ -25,14 +25,19 @@
     "name": "TechnoMagic 3"
   },
   {
-    "uid": "188.165.194.64:25022",
+    "uid": "65.108.74.103:25560",
     "key": "server-tmskyblock",
     "name": "OneBlock"
   },
   {
-    "uid": "188.165.194.64:25023",
+    "uid": "65.108.74.103:25580",
     "key": "server-tmskyblock",
     "name": "OneBlock2"
+  },
+  {
+    "uid": "165.108.74.103:25590",
+    "key": "server-tmskyblock",
+    "name": "OneBlock3"
   },  
   {
     "uid": "188.165.194.64:25001",
@@ -51,11 +56,6 @@
   },
   {
     "uid": "116.202.232.190:25570",
-    "key": "server-divine",
-    "name": "Divine 3"
-  },
-  {
-    "uid": "188.165.194.64:25000",
     "key": "server-magic",
     "name": "Magic"
   },
