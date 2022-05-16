@@ -35,24 +35,14 @@
     "name": "OneBlock2"
   },
   {
-    "uid": "51.75.53.36:25590",
-    "key": "server-tmskyblock",
-    "name": "OneBlock3"
-  },  
-  {
     "uid": "148.251.76.169:25570",
     "key": "server-galaxycraft",
     "name": "GalaxyCraft"
   },
   {
-    "uid": "116.202.232.190:25590",
+    "uid": "51.75.53.36:25590",
     "key": "server-divine",
-    "name": "Divine 1"
-  },
-  {
-    "uid": "116.202.232.190:25580",
-    "key": "server-divine",
-    "name": "Divine 2"
+    "name": "Divine"
   },
   {
     "uid": "95.217.194.41:25570",
