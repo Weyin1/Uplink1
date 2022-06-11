@@ -1,13 +1,13 @@
 [
     {
-    "uid": "116.202.236.45:25570",
+    "uid": "95.217.194.41:25565",
     "key": "server-classic",
     "name": "Classic"
   },
   {
     "uid": "116.202.236.45:25565",
     "key": "server-pixelmon",
-    "name": "Pixelmon 1"
+    "name": "Pixelmon"
   },
   {
     "uid": "51.75.55.87:25570",
@@ -20,19 +20,9 @@
     "name": "TechnoMagic 2"
   },
   {
-    "uid": "116.202.235.223:25590",
-    "key": "server-technomagic",
-    "name": "TechnoMagic 3"
-  },
-  {
     "uid": "51.75.53.35:25560",
     "key": "server-tmskyblock",
     "name": "OneBlock"
-  },
-  {
-    "uid": "51.75.53.35:25580",
-    "key": "server-tmskyblock",
-    "name": "OneBlock2"
   },
   {
     "uid": "148.251.76.169:25570",
@@ -66,7 +56,7 @@
   },
   {
     "uid": "116.202.232.190:25560",
-    "key": "server-nevermine",
+    "key": "server-rpg",
     "name": "RPG"
   },
   {
