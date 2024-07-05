@@ -10,60 +10,105 @@
     "name": "Pixelmon"
   },
   {
-    "uid": "54.36.110.68:25116",
+    "uid": "51.68.191.52:25116",
     "key": "server-technomagic",
     "name": "TechnoMagic 1"
   },
   {
-    "uid": "54.36.110.68:25126",
+    "uid": "23.88.37.45:25116",
+    "key": "server-technomagic",
+    "name": "TechnoMagic 1"
+  },   
+  {
+    "uid": "51.68.191.52:25126",
     "key": "server-technomagic",
     "name": "TechnoMagic 2"
   },
   {
-    "uid": "51.75.53.35:25560",
-    "key": "server-oneblock",
+    "uid": "23.88.37.45:25126",
+    "key": "server-technomagic",
+    "name": "TechnoMagic 2"
+  },   
+  {
+    "uid": "51.68.191.52:25135",
+    "key": "server-tmskyblock",
     "name": "OneBlock"
   },
   {
-    "uid": "51.75.53.35:25590",
+    "uid": "23.88.37.45:25135",
     "key": "server-tmskyblock",
-    "name": "TMSkyBlock"
-  },  
+    "name": "OneBlock"
+  },
+  {
+    "uid": "51.68.191.52:25136",
+    "key": "server-oneblock",
+    "name": "RaftBlock"
+  },
+  {
+    "uid": "23.88.37.45:25136",
+    "key": "server-oneblock",
+    "name": "RaftBlock"
+  },    
+  {
+    "uid": "51.68.191.52:25115",
+    "key": "server-divine",
+    "name": "Divine"
+  },
+  {
+    "uid": "23.88.37.45:25115",
+    "key": "server-divine",
+    "name": "Divine"
+  },   
+  {
+    "uid": "51.68.191.52:25119",
+    "key": "server-magic",
+    "name": "Fantasy"
+  },
+  {
+    "uid": "23.88.37.45:25119",
+    "key": "server-magic",
+    "name": "Fantasy"
+  },   
+  {
+    "uid": "51.68.191.52:25112",
+    "key": "server-hitech",
+    "name": "HiTech 1"
+  },
+  {
+    "uid": "23.88.37.45:25112",
+    "key": "server-hitech",
+    "name": "HiTech 1"
+  },    
+  {
+    "uid": "51.68.191.52:25107",
+    "key": "server-hitech",
+    "name": "HiTech 2"
+  },
+  {
+    "uid": "23.88.37.45:25107",
+    "key": "server-hitech",
+    "name": "HiTech 2"
+  },   
+  {
+    "uid": "51.68.191.52:25132",
+    "key": "server-hitech",
+    "name": "HiTech 3"
+  },
+  {
+    "uid": "23.88.37.45:25132",
+    "key": "server-hitech",
+    "name": "HiTech 3"
+  },
   {
     "uid": "54.36.110.68:25123",
     "key": "server-galaxycraft",
     "name": "RocketEvolution"
   },
   {
-    "uid": "54.36.110.68:25115",
-    "key": "server-divine",
-    "name": "Divine"
-  },
-  {
-    "uid": "54.36.110.68:25119",
-    "key": "server-magic",
-    "name": "Fantasy"
-  },
-  {
-    "uid": "54.36.110.68:25112",
-    "key": "server-hitech",
-    "name": "HiTech 1"
-  },
-  {
-    "uid": "54.36.110.68:25107",
-    "key": "server-hitech",
-    "name": "HiTech 2"
-  },
-  {
-    "uid": "54.36.110.68:25132",
-    "key": "server-hitech",
-    "name": "HiTech 3"
-  },
-  {
-    "uid": "95.217.194.41:25550",
-    "key": "server-rpg",
-    "name": "RPG"
-  },
+    "uid": "54.36.114.68:25123",
+    "key": "server-galaxycraft",
+    "name": "RocketEvolution"
+  },    
   {
     "uid": "localhost",
     "key": "server-localhost",
