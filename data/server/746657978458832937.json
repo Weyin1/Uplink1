@@ -1,5 +1,5 @@
 [
-    {
+  {
     "uid": "95.217.194.41:25565",
     "key": "server-classic",
     "name": "Classic"
@@ -18,7 +18,7 @@
     "uid": "23.88.37.45:25116",
     "key": "server-technomagic",
     "name": "TechnoMagic 1"
-  },   
+  },
   {
     "uid": "51.68.191.52:25126",
     "key": "server-technomagic",
@@ -28,7 +28,7 @@
     "uid": "23.88.37.45:25126",
     "key": "server-technomagic",
     "name": "TechnoMagic 2"
-  },   
+  },
   {
     "uid": "51.68.191.52:25135",
     "key": "server-tmskyblock",
@@ -48,7 +48,7 @@
     "uid": "23.88.37.45:25136",
     "key": "server-oneblock",
     "name": "RaftBlock"
-  },    
+  },
   {
     "uid": "51.68.191.52:25115",
     "key": "server-divine",
@@ -58,7 +58,7 @@
     "uid": "23.88.37.45:25115",
     "key": "server-divine",
     "name": "Divine"
-  },   
+  },
   {
     "uid": "51.68.191.52:25119",
     "key": "server-magic",
@@ -68,27 +68,45 @@
     "uid": "23.88.37.45:25119",
     "key": "server-magic",
     "name": "Fantasy"
-  },   
+  },
+
   {
     "uid": "51.68.191.52:25112",
     "key": "server-hitech",
     "name": "HiTech 1"
   },
   {
-    "uid": "23.88.37.45:25112",
+    "uid": "212.109.220.157:25112",
     "key": "server-hitech",
     "name": "HiTech 1"
-  },    
+  },
+  {
+    "uid": "198.251.88.25:25112",
+    "key": "server-hitech",
+    "name": "HiTech 1"
+  },
+
+  {
+    "uid": "51.68.133.115:25107",
+    "key": "server-hitech",
+    "name": "HiTech 2"
+  },
+  {
+    "uid": "212.109.220.157:25107",
+    "key": "server-hitech",
+    "name": "HiTech 2"
+  },
   {
     "uid": "51.68.191.52:25107",
     "key": "server-hitech",
     "name": "HiTech 2"
   },
   {
-    "uid": "23.88.37.45:25107",
+    "uid": "198.251.88.25:25107",
     "key": "server-hitech",
     "name": "HiTech 2"
-  },   
+  },
+
   {
     "uid": "51.68.191.52:25132",
     "key": "server-hitech",
@@ -108,7 +126,7 @@
     "uid": "54.36.114.68:25123",
     "key": "server-galaxycraft",
     "name": "RocketEvolution"
-  },    
+  },
   {
     "uid": "localhost",
     "key": "server-localhost",
